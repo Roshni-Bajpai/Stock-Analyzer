@@ -3,3 +3,7 @@ yfinance
 plotly
 numpy
 pandas
+matplotlib
+statsmodels
+scikit-learn
+pmdarima
