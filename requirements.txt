@@ -6,4 +6,4 @@ pandas
 matplotlib
 statsmodels
 scikit-learn
-pmdarima
+pmdarima==1.8.2
